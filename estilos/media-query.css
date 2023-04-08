@@ -33,13 +33,13 @@
 
     #login > #imagem{
         float: left;
-        width: 50%;
+        width: 30%;
         height: 100%;
     }
 
     #login > #formulario{
         float: right;
-        width: 50%;
+        width: 70%;
     }
 
     #formulario > h1{
